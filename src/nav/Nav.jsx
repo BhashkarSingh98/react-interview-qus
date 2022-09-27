@@ -15,7 +15,7 @@ const Nav = () => {
         <BrowserRouter>
         <Routes>
             <Route path='/' element={<Mainnav/>}>
-            <Route path='/day-1' element={<Dayone/>}/>
+            <Route index element={<Dayone/>}/>
 
             <Route path='/day-2' element={<Daytwo/>}/>
             <Route path='/day-3' element={<Daythree/>}/>

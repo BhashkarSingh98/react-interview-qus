@@ -5,7 +5,7 @@ const Navlink = () => {
   return (
     <div className='nav'>
         <ul>
-            <li><NavLink className="l1" to='/day-1'>Day-1</NavLink></li>
+            <li><NavLink className="l1" to='/'>Day-1</NavLink></li>
             <li><NavLink className="l1" to='/day-2'>Day-2</NavLink></li>
             <li><NavLink className="l1" to='day-3'>Day-3</NavLink></li>
             <li><NavLink className="l1" to='day-4'>Day-4</NavLink></li>
