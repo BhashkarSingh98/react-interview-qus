@@ -59,6 +59,11 @@ code {
 
  
 }
+.l1:hover{
+  background-color: rgb(224, 96, 96);
+  color: whitesmoke;
+  border-radius: 7px;
+}
 .day-1{
   background-color: aquamarine;
 }
