@@ -6,7 +6,7 @@ const Dayfive = () => {
       <div className="innerbox-day-3">
         <div className='day-5-qus-1'>
         <br />
-          <h2>High Order Component in react js ?</h2>
+          <h2>Qus 1> High Order Component in react js ?</h2>
           <br />
           <ul>
             <li>Higher-order components or HOC is the advanced method of reusing the component functionality logic. It simply takes the original component and returns the enhanced component.</li>
@@ -17,7 +17,7 @@ const Dayfive = () => {
         </div>
         <br />
         <div className='day-5-qus-2'>
-          <h2>Do you know about SEO ? </h2>
+          <h2>Qus 2> Do you know about SEO ? </h2>
           <br />
           <ul>
             <li>Search engine optimisation (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic (known as “natural” or “organic” results) rather than direct traffic or paid traffic.</li>
@@ -27,7 +27,7 @@ const Dayfive = () => {
         </div>
         <br />
         <div className='day-5-qus-3'>
-          <h2>clean up in useEffect?</h2>
+          <h2>Qus 3> clean up in useEffect?</h2>
           <br />
           <ul>
             <li>React’s useEffect cleanup function saves applications from unwanted behaviors like memory leaks by cleaning up effects. In doing so, we can optimize our application’s performance.</li>
@@ -38,7 +38,7 @@ const Dayfive = () => {
         <br />
         <div className='day-5-qus-4'>
 
-          <h2>Why do we need keys in react list?</h2>
+          <h2>Qus 4> Why do we need keys in react list?</h2>
           <br />
           <ul>
             <li>A “key” is a special string attribute you need to include when creating lists of elements in React. Keys are used in React to identify which items in the list are changed, updated, or deleted. In other words, we can say that keys are used to give an identity to the elements in the lists.</li>
@@ -49,7 +49,7 @@ const Dayfive = () => {
         <br />
 
         <div className='day-5-qus-4'>
-          <h2>Do you know about redux?</h2>
+          <h2>Qus 5> Do you know about redux?</h2>
           <br />
           <ul>
             <li>Redux is a state management tool for JavaScript applications. It is more commonly used with ReactJS but is also compatible with many other frameworks such as Angular, Vue, Preact, as well as vanilla JavaScript. It is important to note that even though React and Redux are frequently used together, they are independent of each other!</li>
